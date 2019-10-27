@@ -1,4 +1,5 @@
 # TwinGAN -- Unsupervised Image Translation for Human Portraits
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-_uyhly24-NEwISwJDhp0XQAfuZQKZGA)
 
 ![result](docs/images/AX18_TwinGAN-14.png)
 ![identity_preservation](docs/images/AX18_TwinGAN-15.png)
