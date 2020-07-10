@@ -29,7 +29,8 @@ import os
 sys.path.append('./')
 
 import numpy as np
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 
 import util_io
